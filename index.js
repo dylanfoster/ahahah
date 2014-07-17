@@ -8,3 +8,5 @@ setInterval(ahahah, 2500);
 function ahahah(){
   player.play();
 }
+
+module.exports = ahahah;
