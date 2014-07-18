@@ -6,8 +6,19 @@
   "scripts": {
     "test": "node index"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:dylan947/ahahah.git"
+  },
+  "keywords": [
+  
+  ],
+  "author": "Dylan Foster",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dylan947/ahahah/issues"
+  },
+  "homepage": "https://github.com/dylan947/ahahah",
   "dependencies": {
     "player": "^0.1.8"
   }
