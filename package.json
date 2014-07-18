@@ -1,6 +1,6 @@
 {
   "name": "ahahah",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ahahah, great for error handling",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "url": "https://github.com:dylan947/ahahah.git"
   },
   "keywords": [
-  
+
   ],
-  "author": "Dylan Foster",
+  "author": "Dylan Foster <dylan947@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dylan947/ahahah/issues"
